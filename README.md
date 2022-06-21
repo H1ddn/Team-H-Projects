@@ -1,4 +1,4 @@
-# Query-Project
+# Team-H-Projects
 Location of the Query Team's work and progress in MeetEng and the Search Engine Query
 
 MeetEng Folder will hold all our work on the MeetEng project.
